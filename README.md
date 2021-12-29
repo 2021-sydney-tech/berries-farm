@@ -4,6 +4,7 @@ Here is the link to view my berries-farm project https://sly-tech-sydney.github.
 29-Dec-2021 Have successfully set up a webserver through Azure WebServer IIS tools.
 <img src="images/webpage using public ip address.png" alt="webpage by public IP address">
 <img src="images/screenshot Azure VM webserver001.jpg" alt="setting webserver through Azure VM">
+<img src="images/Screenshot push my work to github.jpg" alt="push my work to GitHub">
 
 
 Here below is my screenshot
