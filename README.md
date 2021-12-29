@@ -5,5 +5,7 @@ Here below is my screenshot
 16-Nov-21 Using this repo to practice Git. I am familiar with using git clone ssh rather than https  
 16-Nov-21, 2pm. Trying to pushmy change to the remote repo
 
-29-Dec-2021 Have successfully hosted webpage through Azure WebServer IIS using public IP address
+29-Dec-2021 Have successfully set up a webserver through Azure WebServer IIS tools.
+<img src="images/screenshot of my page.png" alt="webpage by public IP address">
+<img src="images/screenshot Azure VM webserver001.jpg" alt="setting webserver through Azure VM">
 
